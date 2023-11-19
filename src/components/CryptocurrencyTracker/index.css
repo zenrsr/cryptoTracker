@@ -1,0 +1,16 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  font-family: 'Roboto';
+  min-height: 100vh;
+}
+
+.error-message {
+  text-align: center;
+  color: #00e7ff;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 5px;
+}
